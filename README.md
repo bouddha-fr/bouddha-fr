@@ -1,5 +1,5 @@
 <h1 align="center">Salut 👋, je suis bouddha</h1>
-<h3 align="center">Un passionné de cybersécurité, de Linux (j'utilise arch d'ailleurs) et de logiciels libres et open source (FOSS). </h3>
+<h3 align="center">Un passionné de cybersécurité, de Linux (I use arch btw) et de logiciels libres et open source (FOSS). </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bouddha-fr&label=Profile%20views&color=0e75b6&style=flat" alt="bouddha-fr" / > </p>
 
@@ -13,7 +13,7 @@
 
 - 💬 Demandez-moi à propos de **linux, bash **
 
-- ⚡ Fait amusant **J'utilise arch d'ailleurs**
+- ⚡ Fait amusant **I use arch btw**
 
 <h3 align="left">Connectez-vous avec moi :</h3>
 <p align="left">
