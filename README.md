@@ -11,7 +11,7 @@
 
 - 👯 Je cherche à collaborer sur **d'autres projets open-source**
 
-- 💬 Demandez-moi à propos de **linux, bash **
+- 💬 Demandez-moi à propos de **linux, bash**
 
 - ⚡ Fait amusant **I use arch btw**
 
