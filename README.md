@@ -1,13 +1,13 @@
 <h1 align="center">Salut 👋, je suis bouddha</h1>
-<h3 align="center">Un passionné de cybersécurité, de Linux (I use arch btw) et de logiciels libres et open source (FOSS). </h3>
+<h3 align="center">Un passionné de cybersécurité, de Linux et de logiciels libres et open source (FOSS). </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bouddha-fr&label=Profile%20views&color=0e75b6&style=flat" alt="bouddha-fr" / > </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bouddha-fr" alt="bouddha-fr" /></a> </p>
 
-- 🔭 Je travaille actuellement sur [un bot discord en python](https://github.com/bouddha-fr/Guanaco)
+- 🔭 Je travaille actuellement sur [Tracecat](https://github.com/TracecatHQ/tracecat)
 
-- 🌱 J'apprends actuellement **Python**
+- 🌱 J'apprends actuellement **Python, Nim, YAML**
 
 - 👯 Je cherche à collaborer sur **d'autres projets open-source**
 
